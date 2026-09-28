@@ -1,4 +1,4 @@
-# MERNShop - Full MERN E-Commerce Website
+# ShopNow - Full MERN E-Commerce Website
 
 A complete MERN e-commerce starter project with:
 
